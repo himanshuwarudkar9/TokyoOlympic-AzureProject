@@ -4,13 +4,13 @@ Welcome to the Tokyo Olympic Analytics project! This comprehensive end-to-end an
 
 # Project link
 
-# Service used
+# Service used 
 1. Azure Data Factory (ADF)
 2. Azure Databricks
 3. Azure Synapse Analytics
 4. Tableau
 
-#Workflow:
+# Workflow
 
 1. Data Extraction: ADF extracts data efficiently from various sources, ensuring a smooth flow into the analytics pipeline.
 2. Data Transformation: Databricks utilizes Apache Spark for complex data transformations, preparing it for meaningful analysis.
