@@ -4,6 +4,8 @@ Welcome to the Tokyo Olympic Analytics project! This comprehensive end-to-end an
 
 # Project link
 
+# Structure
+
 ![Workflow](https://github.com/himanshuwarudkar9/TokyoOlympic-AzureProject/assets/134875100/ec67c1fe-352d-4926-81b2-432ca700aac0)
 
 # Service used 
