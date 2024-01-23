@@ -4,7 +4,8 @@ Welcome to the Tokyo Olympic Analytics project! This comprehensive end-to-end an
 
 # Project link
 
-Part 1- https://www.youtube.com/watch?v=ku0ZFJ-mE_M&t=167s
+Part 1- https://www.youtube.com/watch?v=ku0ZFJ-mE_M&t=167s        
+
 part 2-....
 
 # Structure
